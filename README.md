@@ -1,2 +1,2 @@
-# uni
- php
+# University Management System
+ Php
